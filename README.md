@@ -2,7 +2,8 @@ Hi, I’m DrDesten 👋
 
 I’m interested in all kinds of programming 👀.
 
-I can code HTML/CSS/JS and Python.
-I am 🌱 learning shader developement with glsl.
+I can code HTML/CSS/JS, Python and GLSL.
+I am the author of Stracciatella Shaders and DrDestens MinecraftShaders.
 
-On my repository you can see most of my projects, which I occasionally update.
+You can find useful tools and some other stuff on my website:
+https://drdesten.github.io/web/
